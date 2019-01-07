@@ -1,3 +1,3 @@
 # Multimedia
 
-# Esimerkki multimediakurssille
+Esimerkki multimediakurssille
